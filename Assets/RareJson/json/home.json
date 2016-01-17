@@ -1,0 +1,13 @@
+{
+  "age":25,
+  "name":"rare",
+  "person":{
+    "age":1,
+    "name":"even"
+  },
+  "books":[
+    "ComputerGrphic",
+    "Unity3D",
+    "Graphic"
+  ]
+}
